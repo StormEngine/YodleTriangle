@@ -1,0 +1,8 @@
+D:\Users\kostya\Documents\dev\vs2010\c#\YodleCareers\YodleCareers\bin\Debug\YodleCareers.exe.manifest
+D:\Users\kostya\Documents\dev\vs2010\c#\YodleCareers\YodleCareers\bin\Debug\YodleCareers.application
+D:\Users\kostya\Documents\dev\vs2010\c#\YodleCareers\YodleCareers\bin\Debug\YodleCareers.exe
+D:\Users\kostya\Documents\dev\vs2010\c#\YodleCareers\YodleCareers\bin\Debug\YodleCareers.pdb
+D:\Users\kostya\Documents\dev\vs2010\c#\YodleCareers\YodleCareers\obj\x86\Debug\YodleCareers.exe.manifest
+D:\Users\kostya\Documents\dev\vs2010\c#\YodleCareers\YodleCareers\obj\x86\Debug\YodleCareers.application
+D:\Users\kostya\Documents\dev\vs2010\c#\YodleCareers\YodleCareers\obj\x86\Debug\YodleCareers.exe
+D:\Users\kostya\Documents\dev\vs2010\c#\YodleCareers\YodleCareers\obj\x86\Debug\YodleCareers.pdb
